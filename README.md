@@ -2,7 +2,7 @@
 三级联动日期选择器
 
 调用初始化方法
-SKDatePickerView *datePickerView = [[SKDatePickerView alloc] initWithYearLeast:2000 yearSum:100];
+SKDatePickerView *datePickerView = [[SKDatePickerView alloc] initWithYearLeast:2000 yearSum:100];\n
 设置相应属性不设置则为默认值
 //    self.datePickerView.title = @"点击此处选择日期";
 //    self.datePickerView.font = [UIFont systemFontOfSize:20];
